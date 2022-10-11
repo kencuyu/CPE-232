@@ -1,1 +1,1 @@
-# CPE-232 panget mo
+# CPE-232
